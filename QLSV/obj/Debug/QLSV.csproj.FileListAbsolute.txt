@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\ADMIN\source\repos\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\ADMIN\source\repos\QLSV\QLSV\bin\Debug\QLSV.pdb
+C:\Users\ADMIN\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\ADMIN\source\repos\QLSV\QLSV\obj\Debug\QLSV.pdb
